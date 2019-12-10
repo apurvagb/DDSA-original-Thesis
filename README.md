@@ -15,7 +15,7 @@ Changes in the DDSA code for comparing its comparison to PPCA-CCPFA approach:
 3. Ticks per second changed to 48
 4. Change the cluster position by changing the coordinates for paramaeter "ClusterPosition"
 
-The configuration parameters can be changed in the experiment file : DDSA.xml
+The configuration parameters can be changed in the experiment file : DSA.xml
 
 Compile the DDSA simulation by running the build.sh script in the root directory of the repository.
 Run the code using ./run.sh
